@@ -1,1 +1,2 @@
 :root { --adminpanel-bg: #fff; }
+.adminpanel { display: flex; }
