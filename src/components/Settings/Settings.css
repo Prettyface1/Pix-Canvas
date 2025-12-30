@@ -1,1 +1,2 @@
 :root { --settings-bg: #fff; }
+.settings { display: flex; }
