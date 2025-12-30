@@ -1,2 +1,1 @@
-export interface InputProps {}
-export type InputVariant = "primary" | "secondary";
+export interface InputProps { status?: string; }
