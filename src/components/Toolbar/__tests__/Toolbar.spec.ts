@@ -1,0 +1,1 @@
+test('Toolbar matches snapshot', () => {});
