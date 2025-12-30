@@ -1,6 +1,1 @@
-# Checkbox Component
-Description of Checkbox.
-
-```tsx
-<Checkbox />
-```
+# Checkbox Docs
