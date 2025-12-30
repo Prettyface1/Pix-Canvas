@@ -1,1 +1,1 @@
-export interface AdminPanelProps {}
+export interface AdminPanelProps { status?: string; }
