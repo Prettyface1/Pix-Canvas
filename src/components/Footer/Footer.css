@@ -1,2 +1,3 @@
 :root { --footer-bg: #fff; }
 .footer { display: flex; }
+.footer:hover { opacity: 0.8; }
