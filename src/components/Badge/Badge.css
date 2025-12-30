@@ -1,3 +1,4 @@
 :root { --badge-bg: #fff; }
 .badge { display: flex; }
 .badge:hover { opacity: 0.8; }
+/* polished */
