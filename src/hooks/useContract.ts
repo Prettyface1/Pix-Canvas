@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useContract = () => {};
+export const useContract = () => { return useMemo(() => ({}), []); };
