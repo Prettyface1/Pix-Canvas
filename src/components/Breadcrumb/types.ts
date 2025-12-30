@@ -1,1 +1,1 @@
-export interface BreadcrumbProps { status?: string; }
+export interface BreadcrumbProps {}
