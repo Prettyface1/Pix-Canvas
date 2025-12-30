@@ -1,6 +1,2 @@
-# Radio Component
-Description of Radio.
-
-```tsx
-<Radio />
-```
+# Radio
+Technical details.

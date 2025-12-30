@@ -1,2 +1,1 @@
-export interface BadgeProps {}
-export type BadgeVariant = "primary" | "secondary";
+export interface BadgeProps { status?: string; }
