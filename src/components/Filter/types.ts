@@ -1,2 +1,1 @@
-export interface FilterProps {}
-export type FilterVariant = "primary" | "secondary";
+export interface FilterProps { status?: string; }
