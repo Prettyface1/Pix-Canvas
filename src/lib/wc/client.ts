@@ -1,0 +1,1 @@
+import SignClient from "@walletconnect/sign-client";
