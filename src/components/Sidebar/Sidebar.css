@@ -1,1 +1,2 @@
 :root { --sidebar-bg: #fff; }
+.sidebar { display: flex; }

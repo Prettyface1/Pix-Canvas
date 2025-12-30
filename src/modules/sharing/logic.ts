@@ -1,0 +1,1 @@
+// High level logic for Export canvas sections as GIFs
