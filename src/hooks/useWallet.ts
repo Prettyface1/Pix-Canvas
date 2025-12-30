@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useWallet Types
-export const useWallet = () => {};
+export const useWallet = () => {
+  const [s, setS] = useState();
+};
