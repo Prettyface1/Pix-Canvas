@@ -1,1 +1,2 @@
-export const useFetchCanvas = () => {};
+import { useMemo } from 'react';
+export const useFetchCanvas = () => { return useMemo(() => ({}), []); };
