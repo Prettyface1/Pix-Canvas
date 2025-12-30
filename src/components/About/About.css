@@ -1,1 +1,2 @@
 :root { --about-bg: #fff; }
+.about { display: flex; }
