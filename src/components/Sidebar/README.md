@@ -1,6 +1,1 @@
-# Sidebar Component
-Description of Sidebar.
-
-```tsx
-<Sidebar />
-```
+# Sidebar Docs
