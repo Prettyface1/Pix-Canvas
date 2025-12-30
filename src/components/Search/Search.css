@@ -1,2 +1,3 @@
 :root { --search-bg: #fff; }
 .search { display: flex; }
+.search:hover { opacity: 0.8; }
