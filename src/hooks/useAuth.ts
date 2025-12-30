@@ -1,1 +1,3 @@
-export const useAuth = () => {};
+export const useAuth = () => {
+  const [val, setVal] = useState();
+};
