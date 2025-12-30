@@ -1,2 +1,3 @@
 :root { --progressbar-bg: #fff; }
 .progressbar { display: flex; }
+.progressbar:hover { opacity: 0.8; }
