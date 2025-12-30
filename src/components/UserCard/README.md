@@ -1,6 +1,2 @@
-# UserCard Component
-Description of UserCard.
-
-```tsx
-<UserCard />
-```
+# UserCard
+Technical details.
