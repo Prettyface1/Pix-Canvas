@@ -1,0 +1,1 @@
+test('Footer matches snapshot', () => {});
