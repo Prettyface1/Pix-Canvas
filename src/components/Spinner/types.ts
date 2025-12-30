@@ -1,1 +1,1 @@
-export interface SpinnerProps { status?: string; }
+export interface SpinnerProps {}
