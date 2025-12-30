@@ -1,1 +1,3 @@
-export const useCanvas = () => {};
+export const useCanvas = () => {
+  const [val, setVal] = useState();
+};
