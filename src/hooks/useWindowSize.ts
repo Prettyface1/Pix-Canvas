@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useWindowSize = () => {};
+export const useWindowSize = () => { return useMemo(() => ({}), []); };
