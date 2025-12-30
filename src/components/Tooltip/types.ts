@@ -1,1 +1,1 @@
-export interface TooltipProps { status?: string; }
+export interface TooltipProps {}
