@@ -1,2 +1,2 @@
 export interface InputProps {}
-export type Status = "idle" | "busy";
+export type InputVariant = "primary" | "secondary";
