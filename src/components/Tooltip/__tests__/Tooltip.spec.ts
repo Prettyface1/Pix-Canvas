@@ -1,0 +1,1 @@
+test('Tooltip matches snapshot', () => {});
