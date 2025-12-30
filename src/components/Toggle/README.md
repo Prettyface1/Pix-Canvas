@@ -1,6 +1,1 @@
-# Toggle Component
-Description of Toggle.
-
-```tsx
-<Toggle />
-```
+# Toggle Docs
