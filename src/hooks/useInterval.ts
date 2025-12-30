@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useInterval = () => {};
+export const useInterval = () => { return useMemo(() => ({}), []); };
