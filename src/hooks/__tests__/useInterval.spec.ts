@@ -1,0 +1,1 @@
+it('runs useInterval', () => {});
