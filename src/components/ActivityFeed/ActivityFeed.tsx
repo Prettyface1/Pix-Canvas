@@ -1,4 +1,4 @@
 import React from 'react';
 import './ActivityFeed.css';
 
-export const ActivityFeed: React.FC = (props: any) => <div aria-label="ActivityFeed">ActivityFeed</div>;
+export const ActivityFeed: React.FC<ActivityFeedProps> = () => <div>ActivityFeed</div>;
