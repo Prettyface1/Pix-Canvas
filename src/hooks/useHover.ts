@@ -1,1 +1,3 @@
-export const useHover = () => {};
+export const useHover = () => {
+  const [val, setVal] = useState();
+};
