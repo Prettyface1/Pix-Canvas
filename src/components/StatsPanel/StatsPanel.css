@@ -1,2 +1,3 @@
 :root { --statspanel-bg: #fff; }
 .statspanel { display: flex; }
+.statspanel:hover { opacity: 0.8; }
