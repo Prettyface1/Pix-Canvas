@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const usePrevious = () => {};
+export const usePrevious = () => { return useMemo(() => ({}), []); };
