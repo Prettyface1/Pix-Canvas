@@ -1,2 +1,3 @@
 :root { --pixel-bg: #fff; }
 .pixel { display: flex; }
+.pixel:hover { opacity: 0.8; }
