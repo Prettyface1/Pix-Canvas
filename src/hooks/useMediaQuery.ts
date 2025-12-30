@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useMediaQuery = () => {};
+export const useMediaQuery = () => { return useMemo(() => ({}), []); };
