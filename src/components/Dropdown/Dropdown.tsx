@@ -1,4 +1,4 @@
 import React from 'react';
 import './Dropdown.css';
 
-export const Dropdown: React.FC = () => <div>Dropdown</div>;
+export const Dropdown: React.FC = () => <div aria-label="Dropdown">Dropdown</div>;
