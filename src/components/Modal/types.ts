@@ -1,2 +1,1 @@
-export interface ModalProps {}
-export type ModalVariant = "primary" | "secondary";
+export interface ModalProps { status?: string; }
