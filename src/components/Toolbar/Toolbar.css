@@ -1,1 +1,2 @@
 :root { --toolbar-bg: #fff; }
+.toolbar { display: flex; }
