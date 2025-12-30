@@ -1,2 +1,1 @@
-export interface LeaderboardProps {}
-export type LeaderboardVariant = "primary" | "secondary";
+export interface LeaderboardProps { status?: string; }
