@@ -1,1 +1,1 @@
-describe('useRegistry', () => { it('works', () => {}) })
+it('reacts', () => {})
