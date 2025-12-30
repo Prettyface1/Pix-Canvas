@@ -1,2 +1,3 @@
 :root { --about-bg: #fff; }
 .about { display: flex; }
+.about:hover { opacity: 0.8; }
