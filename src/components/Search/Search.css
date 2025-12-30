@@ -1,1 +1,2 @@
 :root { --search-bg: #fff; }
+.search { display: flex; }
