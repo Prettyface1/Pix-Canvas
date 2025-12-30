@@ -1,4 +1,3 @@
 import React from 'react';
 import './Notification.css';
-
-export const Notification: React.FC = (props: any) => <div aria-label="Notification">Notification</div>;
+export const Notification = () => <div className="notification">Notification content</div>;

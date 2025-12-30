@@ -1,2 +1,1 @@
-export interface ButtonProps {}
-export type ButtonVariant = "primary" | "secondary";
+export interface ButtonProps { status?: string; }

@@ -1,0 +1,1 @@
+describe('useRegistry', () => { it('works', () => {}) })

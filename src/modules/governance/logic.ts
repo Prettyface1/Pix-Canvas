@@ -1,0 +1,1 @@
+// High level logic for Snapshot-like voting for community rules

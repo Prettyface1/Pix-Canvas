@@ -1,6 +1,6 @@
-# Notification Component
-Description of Notification.
+# Notification
+Technical details.
 
 ```tsx
-<Notification />
+// Usage example
 ```

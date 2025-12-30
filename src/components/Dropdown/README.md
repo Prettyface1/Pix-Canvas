@@ -1,6 +1,6 @@
-# Dropdown Component
-Description of Dropdown.
+# Dropdown
+Technical details.
 
 ```tsx
-<Dropdown />
+// Usage example
 ```

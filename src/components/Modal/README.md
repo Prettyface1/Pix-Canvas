@@ -1,6 +1,2 @@
-# Modal Component
-Description of Modal.
-
-```tsx
-<Modal />
-```
+# Modal
+Technical details.

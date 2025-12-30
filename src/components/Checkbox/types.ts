@@ -1,2 +1,1 @@
-export interface CheckboxProps {}
-export type CheckboxVariant = "primary" | "secondary";
+export interface CheckboxProps { status?: string; }

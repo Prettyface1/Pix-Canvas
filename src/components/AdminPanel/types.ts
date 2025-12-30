@@ -1,2 +1,1 @@
-export interface AdminPanelProps {}
-export type AdminPanelVariant = "primary" | "secondary";
+export interface AdminPanelProps { status?: string; }

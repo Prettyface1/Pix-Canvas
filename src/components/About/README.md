@@ -1,6 +1,1 @@
-# About Component
-Description of About.
-
-```tsx
-<About />
-```
+# About Docs

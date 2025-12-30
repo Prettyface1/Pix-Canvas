@@ -1,2 +1,2 @@
 export interface ToolbarProps {}
-export type ToolbarVariant = "primary" | "secondary";
+export type Status = "idle" | "busy";
