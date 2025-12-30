@@ -1,6 +1,1 @@
-# Dropdown Component
-Description of Dropdown.
-
-```tsx
-<Dropdown />
-```
+# Dropdown Docs
