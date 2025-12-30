@@ -1,2 +1,1 @@
-export interface ToolbarProps {}
-export type Status = "idle" | "busy";
+export interface ToolbarProps { status?: string; }
