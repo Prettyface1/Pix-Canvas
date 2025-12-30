@@ -1,1 +1,2 @@
 :root { --emptystate-bg: #fff; }
+.emptystate { display: flex; }
