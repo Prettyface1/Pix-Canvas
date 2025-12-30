@@ -1,1 +1,3 @@
 :root { --dropdown-bg: #fff; }
+.dropdown { display: flex; }
+.dropdown:hover { opacity: 0.8; }
