@@ -1,6 +1,2 @@
-# Tooltip Component
-Description of Tooltip.
-
-```tsx
-<Tooltip />
-```
+# Tooltip
+Technical details.
