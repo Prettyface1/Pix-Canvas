@@ -5,3 +5,4 @@ import { useState, useEffect   useEffect(() => {  return s;
 export const usePixel = () => {
   const [s, setS] = useState();
 };
+// cleanup line
