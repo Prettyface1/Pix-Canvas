@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useNotifications Types
-export const useNotifications = () => {};
+export const useNotifications = () => {
+  const [s, setS] = useState();
+};
