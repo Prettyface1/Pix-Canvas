@@ -1,4 +1,4 @@
 import React from 'react';
 import './Checkbox.css';
-export const Checkbox = () => <div className="checkbox">Checkbox content</div>;
-export const Checkbox = () => <div className="checkbox">Checkbox</div>;
+export const Checkbox = (props: any) => { const loading = false; return ( <div className="checkbox">Checkbox content</div>;
+export const Checkbox = () => <div className="checkbox">Checkbox</div>;)}
