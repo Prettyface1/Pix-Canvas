@@ -1,6 +1,2 @@
-# TransactionList Component
-Description of TransactionList.
-
-```tsx
-<TransactionList />
-```
+# TransactionList
+Technical details.
