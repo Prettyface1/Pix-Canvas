@@ -1,1 +1,2 @@
 :root { --header-bg: #fff; }
+.header { display: flex; }
