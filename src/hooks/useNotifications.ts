@@ -1,1 +1,3 @@
-export const useNotifications = () => {};
+export const useNotifications = () => {
+  const [val, setVal] = useState();
+};
