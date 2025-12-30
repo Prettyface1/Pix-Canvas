@@ -1,6 +1,6 @@
-# ProgressBar Component
-Description of ProgressBar.
+# ProgressBar
+Technical details.
 
 ```tsx
-<ProgressBar />
+// Usage example
 ```
