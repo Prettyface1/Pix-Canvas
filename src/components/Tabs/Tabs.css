@@ -1,1 +1,2 @@
 :root { --tabs-bg: #fff; }
+.tabs { display: flex; }
