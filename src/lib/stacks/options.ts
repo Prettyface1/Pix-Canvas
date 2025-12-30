@@ -1,0 +1,1 @@
+export const authOptions = { appDetails: { name: "Pix-Canvas", icon: "" } };
