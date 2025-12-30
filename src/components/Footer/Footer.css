@@ -1,1 +1,2 @@
 :root { --footer-bg: #fff; }
+.footer { display: flex; }
