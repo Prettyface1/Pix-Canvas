@@ -1,1 +1,3 @@
-export const useLocalStorage = () => {};
+export const useLocalStorage = () => {
+  const [val, setVal] = useState();
+};
