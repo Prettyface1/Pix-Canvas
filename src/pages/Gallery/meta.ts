@@ -1,0 +1,1 @@
+export const meta = { title: "Gallery | Pix-Canvas" };
