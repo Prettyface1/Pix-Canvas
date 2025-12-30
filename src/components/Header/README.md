@@ -1,6 +1,1 @@
-# Header Component
-Description of Header.
-
-```tsx
-<Header />
-```
+# Header Docs
