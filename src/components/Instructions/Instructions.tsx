@@ -1,4 +1,3 @@
 import React from 'react';
 import './Instructions.css';
-
-export const Instructions: React.FC = (props: any) => <div aria-label="Instructions">Instructions</div>;
+export const Instructions = () => <div className="instructions">Instructions content</div>;
