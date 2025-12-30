@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useDebounce = () => {};
+export const useDebounce = () => { return useMemo(() => ({}), []); };
