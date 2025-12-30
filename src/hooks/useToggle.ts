@@ -1,1 +1,3 @@
-export const useToggle = () => {};
+export const useToggle = () => {
+  const [val, setVal] = useState();
+};
