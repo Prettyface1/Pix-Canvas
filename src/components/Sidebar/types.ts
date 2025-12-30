@@ -1,2 +1,1 @@
-export interface SidebarProps {}
-export type SidebarVariant = "primary" | "secondary";
+export interface SidebarProps { status?: string; }

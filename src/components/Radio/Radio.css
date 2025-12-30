@@ -1,1 +1,3 @@
-.radio { display: block; }
+:root { --radio-bg: #fff; }
+.radio { display: flex; }
+.radio:hover { opacity: 0.8; }

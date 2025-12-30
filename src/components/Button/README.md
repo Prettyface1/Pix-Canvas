@@ -1,6 +1,2 @@
-# Button Component
-Description of Button.
-
-```tsx
-<Button />
-```
+# Button
+Technical details.

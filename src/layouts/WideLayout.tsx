@@ -1,0 +1,1 @@
+export const WideLayout = ({children}: any) => <div>{children}</div>;

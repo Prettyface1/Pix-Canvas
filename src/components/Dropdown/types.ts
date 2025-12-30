@@ -1,2 +1,1 @@
-export interface DropdownProps {}
-export type DropdownVariant = "primary" | "secondary";
+export interface DropdownProps { status?: string; }
