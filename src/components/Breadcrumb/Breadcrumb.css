@@ -1,1 +1,2 @@
 :root { --breadcrumb-bg: #fff; }
+.breadcrumb { display: flex; }
