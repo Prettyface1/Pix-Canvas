@@ -1,1 +1,3 @@
-export const useUserStats = () => {};
+export const useUserStats = () => {
+  const [val, setVal] = useState();
+};
