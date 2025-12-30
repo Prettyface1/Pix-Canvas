@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // usePrevious Types
-export const usePrevious = () => {};
+export const usePrevious = () => {
+  const [s, setS] = useState();
+};
