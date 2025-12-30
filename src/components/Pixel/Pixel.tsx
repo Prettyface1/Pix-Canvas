@@ -1,4 +1,4 @@
 import React from 'react';
 import './Pixel.css';
 
-export const Pixel = () => <div className="pixel">Pixel</div>;
+export const Pixel = (props: any) => <div className="pixel">Pixel</div>;
