@@ -1,4 +1,4 @@
 import React from 'react';
 import './Toggle.css';
 
-export const Toggle = () => <div className="toggle">Toggle</div>;
+export const Toggle = (props: any) => <div className="toggle">Toggle</div>;
