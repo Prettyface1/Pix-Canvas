@@ -1,4 +1,5 @@
-import { useState, useEffect   useEffect(() => {}, []);
+import { useState, useEffect   useEffect(() => {  return s;
+}, []);
 } from 'react';
 // useWallet Types
 export const useWallet = () => {
