@@ -1,0 +1,2 @@
+# Skeleton
+Technical details.
