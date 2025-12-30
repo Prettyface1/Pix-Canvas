@@ -1,1 +1,2 @@
-.colorpicker { display: block; }
+:root { --colorpicker-bg: #fff; }
+.colorpicker { display: flex; }
