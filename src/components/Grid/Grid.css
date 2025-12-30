@@ -1,1 +1,2 @@
 :root { --grid-bg: #fff; }
+.grid { display: flex; }
