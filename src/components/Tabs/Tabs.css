@@ -1,2 +1,3 @@
 :root { --tabs-bg: #fff; }
 .tabs { display: flex; }
+.tabs:hover { opacity: 0.8; }
