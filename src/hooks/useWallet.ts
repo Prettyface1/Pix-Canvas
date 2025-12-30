@@ -5,3 +5,4 @@ import { useState, useEffect   useEffect(() => {  return s;
 export const useWallet = () => {
   const [s, setS] = useState();
 };
+// cleanup line
