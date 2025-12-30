@@ -1,2 +1,1 @@
-export interface SettingsProps {}
-export type SettingsVariant = "primary" | "secondary";
+export interface SettingsProps { status?: string; }
