@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useLocalStorage Types
-export const useLocalStorage = () => {};
+export const useLocalStorage = () => {
+  const [s, setS] = useState();
+};
