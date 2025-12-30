@@ -1,1 +1,1 @@
-export interface CheckboxProps { status?: string; }
+export interface CheckboxProps {}
