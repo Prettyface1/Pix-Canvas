@@ -1,1 +1,1 @@
-.progressbar { display: block; }
+:root { --progressbar-bg: #fff; }
