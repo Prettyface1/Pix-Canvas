@@ -1,2 +1,1 @@
-export interface ColorPickerProps {}
-export type ColorPickerVariant = "primary" | "secondary";
+export interface ColorPickerProps { status?: string; }
