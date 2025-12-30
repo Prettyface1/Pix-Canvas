@@ -1,0 +1,1 @@
+test('Spinner matches snapshot', () => {});
