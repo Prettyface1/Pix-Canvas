@@ -1,0 +1,1 @@
+test('ProgressBar matches snapshot', () => {});
