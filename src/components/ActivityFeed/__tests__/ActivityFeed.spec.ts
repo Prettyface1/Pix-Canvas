@@ -1,0 +1,1 @@
+test('ActivityFeed matches snapshot', () => {});
