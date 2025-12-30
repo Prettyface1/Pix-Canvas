@@ -1,0 +1,1 @@
+export const DashboardLayout = ({children}: any) => <div>{children}</div>;
