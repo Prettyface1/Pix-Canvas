@@ -1,2 +1,2 @@
-:root { --input-bg: #fff; }
-.input { display: flex; }
+.input { padding: 10px; }
+.input:hover { opacity: 0.8; }
