@@ -1,1 +1,2 @@
 :root { --toggle-bg: #fff; }
+.toggle { display: flex; }
