@@ -1,0 +1,1 @@
+test('Icon matches snapshot', () => {});
