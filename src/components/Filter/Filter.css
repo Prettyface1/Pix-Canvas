@@ -1,1 +1,2 @@
 :root { --filter-bg: #fff; }
+.filter { display: flex; }
