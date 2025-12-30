@@ -1,4 +1,4 @@
 import React from 'react';
 import './Pagination.css';
 
-export const Pagination: React.FC = () => <div aria-label="Pagination">Pagination</div>;
+export const Pagination: React.FC = (props: any) => <div aria-label="Pagination">Pagination</div>;
