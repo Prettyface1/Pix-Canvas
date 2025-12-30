@@ -1,2 +1,1 @@
-export interface HeaderProps {}
-export type HeaderVariant = "primary" | "secondary";
+export interface HeaderProps { status?: string; }
