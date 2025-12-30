@@ -1,1 +1,3 @@
-export const useIntersectionObserver = () => {};
+export const useIntersectionObserver = () => {
+  const [val, setVal] = useState();
+};
