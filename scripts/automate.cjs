@@ -101,13 +101,17 @@ addTask('core/init-frontend', 'feat: initialize frontend structure', 'Setting up
 ]);
 
 async function start() {
-    run('git checkout -b main');
-    run('git checkout main');
+    try {
+        run('git checkout -b main');
+    } catch (e) {
+        run('git checkout main');
+    }
 
     let count = run('git rev-list --count HEAD');
-    if (!count || count === '0') {
+    if (!count || count === '0' || count === null) {
         fs.writeFileSync(path.join(repoPath, 'README.md'), '# Pix-Canvas\n');
         commit('chore: initial commit');
+        run('git push origin main --force');
     }
 
     for (const task of featureSets) {
