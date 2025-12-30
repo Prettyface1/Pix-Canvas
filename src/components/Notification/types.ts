@@ -1,2 +1,1 @@
-export interface NotificationProps {}
-export type NotificationVariant = "primary" | "secondary";
+export interface NotificationProps { status?: string; }
