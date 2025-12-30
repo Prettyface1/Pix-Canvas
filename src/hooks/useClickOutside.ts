@@ -1,2 +1,4 @@
 // Types for useClickOutside
-export const useClickOutside = () => {};
+export const useClickOutside = () => {
+  const [state, setState] = useState();
+};
