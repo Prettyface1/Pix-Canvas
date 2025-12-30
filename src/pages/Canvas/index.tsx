@@ -1,0 +1,1 @@
+export const CanvasPage = () => <div>Canvas</div>;
