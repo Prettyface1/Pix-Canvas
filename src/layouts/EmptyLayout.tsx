@@ -1,0 +1,1 @@
+export const EmptyLayout = ({children}: any) => <div>{children}</div>;
