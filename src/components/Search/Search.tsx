@@ -1,4 +1,3 @@
 import React from 'react';
 import './Search.css';
-
-export const Search: React.FC = (props: any) => <div aria-label="Search">Search</div>;
+export const Search = () => <div className="search">Search content</div>;
