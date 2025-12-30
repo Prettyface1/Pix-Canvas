@@ -1,2 +1,1 @@
-export interface TransactionListProps {}
-export type TransactionListVariant = "primary" | "secondary";
+export interface TransactionListProps { status?: string; }
