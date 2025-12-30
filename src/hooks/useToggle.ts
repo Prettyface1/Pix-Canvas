@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useToggle Types
-export const useToggle = () => {};
+export const useToggle = () => {
+  const [s, setS] = useState();
+};
