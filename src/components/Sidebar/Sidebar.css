@@ -1,2 +1,1 @@
-:root { --sidebar-bg: #fff; }
-.sidebar { display: flex; }
+.sidebar { padding: 10px; }
