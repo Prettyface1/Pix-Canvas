@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useCanvas = () => {};
+export const useCanvas = () => { return useMemo(() => ({}), []); };
