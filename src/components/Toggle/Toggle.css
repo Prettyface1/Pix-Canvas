@@ -1,2 +1,3 @@
 :root { --toggle-bg: #fff; }
 .toggle { display: flex; }
+.toggle:hover { opacity: 0.8; }
