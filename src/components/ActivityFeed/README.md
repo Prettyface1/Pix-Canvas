@@ -1,6 +1,6 @@
-# ActivityFeed Component
-Description of ActivityFeed.
+# ActivityFeed
+Technical details.
 
 ```tsx
-<ActivityFeed />
+// Usage example
 ```
