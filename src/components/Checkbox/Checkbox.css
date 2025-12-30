@@ -1,1 +1,2 @@
 :root { --checkbox-bg: #fff; }
+.checkbox { display: flex; }
