@@ -1,1 +1,3 @@
-export const useClickOutside = () => {};
+export const useClickOutside = () => {
+  const [val, setVal] = useState();
+};
