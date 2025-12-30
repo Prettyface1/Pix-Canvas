@@ -1,0 +1,1 @@
+test('Sidebar matches snapshot', () => {});
