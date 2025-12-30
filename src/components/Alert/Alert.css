@@ -1,2 +1,3 @@
 
 .alert { display: flex; }
+.alert:hover { opacity: 0.8; }
