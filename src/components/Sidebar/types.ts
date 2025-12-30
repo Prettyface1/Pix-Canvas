@@ -1,2 +1,1 @@
-export interface SidebarProps {}
-export type Status = "idle" | "busy";
+export interface SidebarProps { status?: string; }
