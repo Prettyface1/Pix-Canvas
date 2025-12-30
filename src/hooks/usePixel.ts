@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const usePixel = () => {};
+export const usePixel = () => { return useMemo(() => ({}), []); };
