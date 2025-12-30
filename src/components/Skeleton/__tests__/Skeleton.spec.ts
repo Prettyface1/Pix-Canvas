@@ -1,0 +1,1 @@
+test('Skeleton matches snapshot', () => {});
