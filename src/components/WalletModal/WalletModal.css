@@ -1,1 +1,2 @@
 :root { --walletmodal-bg: #fff; }
+.walletmodal { display: flex; }
