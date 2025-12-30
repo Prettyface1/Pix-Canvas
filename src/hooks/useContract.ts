@@ -1,1 +1,3 @@
-export const useContract = () => {};
+export const useContract = () => {
+  const [val, setVal] = useState();
+};
