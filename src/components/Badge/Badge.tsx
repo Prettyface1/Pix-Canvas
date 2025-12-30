@@ -1,4 +1,3 @@
 import React from 'react';
 import './Badge.css';
-
-export const Badge: React.FC<BadgeProps> = () => <div>Badge</div>;
+export const Badge = () => <div className="badge">Badge content</div>;
