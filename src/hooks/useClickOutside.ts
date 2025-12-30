@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useClickOutside = () => {};
+export const useClickOutside = () => { return useMemo(() => ({}), []); };
