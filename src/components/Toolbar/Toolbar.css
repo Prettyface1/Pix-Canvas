@@ -1,3 +1,1 @@
-:root { --toolbar-bg: #fff; }
-.toolbar { display: flex; }
-.toolbar:hover { opacity: 0.8; }
+.toolbar { padding: 10px; }
