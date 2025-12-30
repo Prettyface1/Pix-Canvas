@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useLockedBody = () => {};
+export const useLockedBody = () => { return useMemo(() => ({}), []); };
