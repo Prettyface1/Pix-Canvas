@@ -1,6 +1,1 @@
-# Notification
-Technical details.
-
-```tsx
-// Usage example
-```
+# Notification Docs

@@ -1,6 +1,2 @@
-# AdminPanel Component
-Description of AdminPanel.
-
-```tsx
-<AdminPanel />
-```
+# AdminPanel
+Technical details.
