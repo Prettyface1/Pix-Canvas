@@ -1,2 +1,1 @@
-export interface StatsPanelProps {}
-export type StatsPanelVariant = "primary" | "secondary";
+export interface StatsPanelProps { status?: string; }
