@@ -1,1 +1,2 @@
 :root { --transactionlist-bg: #fff; }
+.transactionlist { display: flex; }
