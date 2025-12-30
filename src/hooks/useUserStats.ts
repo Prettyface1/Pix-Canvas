@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useUserStats Types
-export const useUserStats = () => {};
+export const useUserStats = () => {
+  const [s, setS] = useState();
+};
