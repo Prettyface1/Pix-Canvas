@@ -1,1 +1,3 @@
 :root { --avatar-bg: #fff; }
+.avatar { display: flex; }
+.avatar:hover { opacity: 0.8; }
