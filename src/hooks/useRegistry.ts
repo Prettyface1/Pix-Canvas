@@ -1,3 +1,6 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect   useEffect(() => {}, []);
+} from 'react';
 // useRegistry Types
-export const useRegistry = () => {};
+export const useRegistry = () => {
+  const [s, setS] = useState();
+};
