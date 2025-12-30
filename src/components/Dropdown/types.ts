@@ -1,1 +1,1 @@
-export interface DropdownProps { status?: string; }
+export interface DropdownProps {}
