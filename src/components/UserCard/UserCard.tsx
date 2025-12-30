@@ -1,4 +1,4 @@
 import React from 'react';
 import './UserCard.css';
 
-export const UserCard = () => <div className="usercard">UserCard</div>;
+export const UserCard = (props: any) => <div className="usercard">UserCard</div>;
