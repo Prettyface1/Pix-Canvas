@@ -1,2 +1,3 @@
 :root { --emptystate-bg: #fff; }
 .emptystate { display: flex; }
+.emptystate:hover { opacity: 0.8; }
