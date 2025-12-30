@@ -1,4 +1,4 @@
 import React from 'react';
 import './Modal.css';
 
-export const Modal = () => <div className="modal">Modal</div>;
+export const Modal = (props: any) => <div className="modal">Modal</div>;
