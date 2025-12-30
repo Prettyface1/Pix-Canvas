@@ -1,0 +1,1 @@
+export const GalleryPage = () => <div>Gallery</div>;
