@@ -1,4 +1,4 @@
 import React from 'react';
 import './Toggle.css';
 
-export const Toggle: React.FC = () => <div aria-label="Toggle">Toggle</div>;
+export const Toggle: React.FC = (props: any) => <div aria-label="Toggle">Toggle</div>;
