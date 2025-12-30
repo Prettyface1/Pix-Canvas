@@ -1,1 +1,2 @@
 :root { --activityfeed-bg: #fff; }
+.activityfeed { display: flex; }
