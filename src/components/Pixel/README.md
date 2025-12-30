@@ -1,6 +1,2 @@
-# Pixel Component
-Description of Pixel.
-
-```tsx
-<Pixel />
-```
+# Pixel
+Technical details.
