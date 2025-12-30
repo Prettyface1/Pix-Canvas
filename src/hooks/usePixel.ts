@@ -1,1 +1,3 @@
-export const usePixel = () => {};
+export const usePixel = () => {
+  const [val, setVal] = useState();
+};
