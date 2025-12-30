@@ -1,0 +1,1 @@
+describe('useInterval', () => { it('works', () => {}) })
