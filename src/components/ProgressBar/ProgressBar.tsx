@@ -1,4 +1,4 @@
 import React from 'react';
 import './ProgressBar.css';
 
-export const ProgressBar: React.FC = (props: any) => <div aria-label="ProgressBar">ProgressBar</div>;
+export const ProgressBar: React.FC<ProgressBarProps> = () => <div>ProgressBar</div>;
