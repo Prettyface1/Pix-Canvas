@@ -1,0 +1,1 @@
+export interface SkeletonProps { status?: string; }
