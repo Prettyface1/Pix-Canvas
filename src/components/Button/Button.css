@@ -1,1 +1,2 @@
 :root { --button-bg: #fff; }
+.button { display: flex; }
