@@ -1,2 +1,3 @@
 :root { --skeleton-bg: #fff; }
 .skeleton { display: flex; }
+.skeleton:hover { opacity: 0.8; }
