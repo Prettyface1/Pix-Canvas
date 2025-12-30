@@ -1,6 +1,6 @@
-# Toggle Component
-Description of Toggle.
+# Toggle
+Technical details.
 
 ```tsx
-<Toggle />
+// Usage example
 ```
