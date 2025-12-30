@@ -1,4 +1,4 @@
 import React from 'react';
 import './Notification.css';
 
-export const Notification = () => <div className="notification">Notification</div>;
+export const Notification = (props: any) => <div className="notification">Notification</div>;
