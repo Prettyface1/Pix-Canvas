@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useCanvas Types
-export const useCanvas = () => {};
+export const useCanvas = () => {
+  const [s, setS] = useState();
+};
