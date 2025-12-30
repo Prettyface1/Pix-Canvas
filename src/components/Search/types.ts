@@ -1,2 +1,1 @@
-export interface SearchProps {}
-export type SearchVariant = "primary" | "secondary";
+export interface SearchProps { status?: string; }
