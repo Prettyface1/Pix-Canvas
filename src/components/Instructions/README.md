@@ -1,6 +1,2 @@
-# Instructions Component
-Description of Instructions.
-
-```tsx
-<Instructions />
-```
+# Instructions
+Technical details.
