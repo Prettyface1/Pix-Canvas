@@ -1,0 +1,1 @@
+export const DefaultLayout = ({children}: any) => <div>{children}</div>;
