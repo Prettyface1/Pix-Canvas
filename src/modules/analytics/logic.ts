@@ -1,0 +1,1 @@
+// High level logic for Heatmaps of canvas activity
