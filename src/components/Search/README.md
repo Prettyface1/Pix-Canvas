@@ -1,6 +1,6 @@
-# Search Component
-Description of Search.
+# Search
+Technical details.
 
 ```tsx
-<Search />
+// Usage example
 ```
