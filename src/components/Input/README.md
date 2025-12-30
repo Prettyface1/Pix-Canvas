@@ -1,1 +1,2 @@
-# Input Docs
+# Input
+Technical details.
