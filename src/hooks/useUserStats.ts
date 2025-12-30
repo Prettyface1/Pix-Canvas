@@ -1,2 +1,4 @@
 // Types for useUserStats
-export const useUserStats = () => {};
+export const useUserStats = () => {
+  const [state, setState] = useState();
+};
