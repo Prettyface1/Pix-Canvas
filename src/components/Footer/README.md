@@ -1,6 +1,2 @@
-# Footer Component
-Description of Footer.
-
-```tsx
-<Footer />
-```
+# Footer
+Technical details.
