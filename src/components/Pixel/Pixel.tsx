@@ -1,4 +1,4 @@
 import React from 'react';
 import './Pixel.css';
 
-export const Pixel = (props: any) => <div className="pixel">Pixel</div>;
+export const Pixel = (props: any) => { const loading = false; return ( <div className="pixel">Pixel</div>;)}
