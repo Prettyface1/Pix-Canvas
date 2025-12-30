@@ -1,2 +1,3 @@
 :root { --breadcrumb-bg: #fff; }
 .breadcrumb { display: flex; }
+.breadcrumb:hover { opacity: 0.8; }
