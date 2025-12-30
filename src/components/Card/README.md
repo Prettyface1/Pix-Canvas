@@ -1,1 +1,2 @@
-# Card Docs
+# Card
+Technical details.
