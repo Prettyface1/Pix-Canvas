@@ -1,1 +1,3 @@
 :root { --settings-bg: #fff; }
+.settings { display: flex; }
+.settings:hover { opacity: 0.8; }
