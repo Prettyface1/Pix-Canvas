@@ -1,0 +1,1 @@
+test('AvatarGroup matches snapshot', () => {});
