@@ -1,1 +1,2 @@
 :root { --statspanel-bg: #fff; }
+.statspanel { display: flex; }
