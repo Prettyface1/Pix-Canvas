@@ -1,4 +1,3 @@
 import React from 'react';
 import './ActivityFeed.css';
-
-export const ActivityFeed: React.FC = (props: any) => { const loading = false; return ( <div aria-label="ActivityFeed">ActivityFeed</div>;)}
+export const ActivityFeed = () => <div className="activityfeed">ActivityFeed content</div>;
