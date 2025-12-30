@@ -1,2 +1,4 @@
 // Types for useContract
-export const useContract = () => {};
+export const useContract = () => {
+  const [state, setState] = useState();
+};
