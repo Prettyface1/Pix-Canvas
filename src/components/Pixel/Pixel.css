@@ -1,1 +1,2 @@
 :root { --pixel-bg: #fff; }
+.pixel { display: flex; }
