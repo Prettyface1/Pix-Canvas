@@ -1,1 +1,3 @@
-export const useRegistry = () => {};
+export const useRegistry = () => {
+  const [val, setVal] = useState();
+};
