@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useToggle = () => {};
+export const useToggle = () => { return useMemo(() => ({}), []); };

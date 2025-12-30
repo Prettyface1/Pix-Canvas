@@ -1,3 +1,5 @@
 import { useState, useEffect } from 'react';
 // useFetchCanvas Types
-export const useFetchCanvas = () => {};
+export const useFetchCanvas = () => {
+  const [s, setS] = useState();
+};
