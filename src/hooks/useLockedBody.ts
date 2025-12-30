@@ -1,1 +1,3 @@
-export const useLockedBody = () => {};
+export const useLockedBody = () => {
+  const [val, setVal] = useState();
+};
