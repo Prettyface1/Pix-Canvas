@@ -1,2 +1,3 @@
 :root { --accordion-bg: #fff; }
 .accordion { display: flex; }
+.accordion:hover { opacity: 0.8; }
