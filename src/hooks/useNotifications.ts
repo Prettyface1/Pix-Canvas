@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useNotifications = () => {};
+export const useNotifications = () => { return useMemo(() => ({}), []); };
