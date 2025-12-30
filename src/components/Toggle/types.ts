@@ -1,1 +1,1 @@
-export interface ToggleProps { status?: string; }
+export interface ToggleProps {}
