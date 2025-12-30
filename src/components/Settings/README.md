@@ -1,6 +1,1 @@
-# Settings Component
-Description of Settings.
-
-```tsx
-<Settings />
-```
+# Settings Docs
