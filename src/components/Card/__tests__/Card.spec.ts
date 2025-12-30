@@ -1,0 +1,1 @@
+test('Card matches snapshot', () => {});
