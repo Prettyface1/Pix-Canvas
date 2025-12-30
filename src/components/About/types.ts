@@ -1,2 +1,1 @@
-export interface AboutProps {}
-export type AboutVariant = "primary" | "secondary";
+export interface AboutProps { status?: string; }
