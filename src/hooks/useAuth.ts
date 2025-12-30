@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useAuth = () => {};
+export const useAuth = () => { return useMemo(() => ({}), []); };
