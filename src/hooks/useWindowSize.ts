@@ -1,1 +1,3 @@
-export const useWindowSize = () => {};
+export const useWindowSize = () => {
+  const [val, setVal] = useState();
+};
