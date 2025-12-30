@@ -1,2 +1,2 @@
 export interface SidebarProps {}
-export type SidebarVariant = "primary" | "secondary";
+export type Status = "idle" | "busy";
