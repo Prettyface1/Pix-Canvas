@@ -1,2 +1,1 @@
-export interface ProgressBarProps {}
-export type ProgressBarVariant = "primary" | "secondary";
+export interface ProgressBarProps { status?: string; }
