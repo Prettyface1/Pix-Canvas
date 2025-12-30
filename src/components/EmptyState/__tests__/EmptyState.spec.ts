@@ -1,0 +1,1 @@
+test('EmptyState matches snapshot', () => {});
