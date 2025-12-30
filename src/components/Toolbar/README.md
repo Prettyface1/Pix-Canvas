@@ -1,6 +1,6 @@
-# Toolbar Component
-Description of Toolbar.
+# Toolbar
+Technical details.
 
 ```tsx
-<Toolbar />
+// Usage example
 ```
