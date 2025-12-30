@@ -1,1 +1,2 @@
 :root { --progressbar-bg: #fff; }
+.progressbar { display: flex; }
