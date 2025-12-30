@@ -1,2 +1,3 @@
 :root { --adminpanel-bg: #fff; }
 .adminpanel { display: flex; }
+.adminpanel:hover { opacity: 0.8; }
