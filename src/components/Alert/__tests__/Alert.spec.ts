@@ -1,0 +1,1 @@
+test('Alert matches snapshot', () => {});
