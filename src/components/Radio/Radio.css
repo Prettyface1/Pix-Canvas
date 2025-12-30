@@ -1,1 +1,2 @@
 :root { --radio-bg: #fff; }
+.radio { display: flex; }
