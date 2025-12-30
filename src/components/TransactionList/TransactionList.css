@@ -1,2 +1,3 @@
 :root { --transactionlist-bg: #fff; }
 .transactionlist { display: flex; }
+.transactionlist:hover { opacity: 0.8; }
