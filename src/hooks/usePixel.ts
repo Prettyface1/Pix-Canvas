@@ -1,4 +1,5 @@
-import { useState, useEffect   useEffect(() => {}, []);
+import { useState, useEffect   useEffect(() => {  return s;
+}, []);
 } from 'react';
 // usePixel Types
 export const usePixel = () => {
