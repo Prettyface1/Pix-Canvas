@@ -1,1 +1,3 @@
-export const useMediaQuery = () => {};
+export const useMediaQuery = () => {
+  const [val, setVal] = useState();
+};
