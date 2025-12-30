@@ -1,2 +1,2 @@
 import { useMemo } from 'react';
-export const useUserStats = () => {};
+export const useUserStats = () => { return useMemo(() => ({}), []); };
