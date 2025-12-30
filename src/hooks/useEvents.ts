@@ -1,3 +1,6 @@
+/**
+ * useEvents hook description
+ */
 // Types for useEvents
 export const useEvents = () => {
   const [state, setState] = useState();
