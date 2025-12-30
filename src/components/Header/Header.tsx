@@ -1,4 +1,3 @@
 import React from 'react';
 import './Header.css';
-
-export const Header: React.FC = (props: any) => <div aria-label="Header">Header</div>;
+export const Header = () => <div className="header">Header content</div>;
