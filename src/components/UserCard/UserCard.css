@@ -1,2 +1,3 @@
 :root { --usercard-bg: #fff; }
 .usercard { display: flex; }
+.usercard:hover { opacity: 0.8; }
